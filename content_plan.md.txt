@@ -1,0 +1,4 @@
+| Day | Scene               | Caption                     | Voice Line           |
+|-----|---------------------|-----------------------------|---------------------|
+| 1   | Rooftop Sunset      | Coffee, code, and cute outfits.| Heyyy, it's Aira!    |
+| 2   | Neon Street        | Another day, another slay.    | Let's go!            |

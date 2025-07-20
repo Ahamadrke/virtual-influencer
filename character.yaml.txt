@@ -1,0 +1,12 @@
+name: Aira
+look:
+  skin: fair
+  hair: long platinum blonde
+  eyes: blue
+  outfit_style: casual chic
+  signature_outfit: white crop top with high-waisted jeans
+tone: confident, dreamy, playful
+language: Hinglish
+platforms:
+  - YouTube Shorts
+  - Instagram Reels
